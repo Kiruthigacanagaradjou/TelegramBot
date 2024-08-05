@@ -1,8 +1,8 @@
 const axios = require('axios');
 
 // Telegram Bot Token and Chat ID
-const TELEGRAM_BOT_TOKEN = '7260403449:AAGD_iUcAm7nNlJBiO8saYTFlvnp_XIuX4E';
-const CHAT_ID = '-4257279629';
+const TELEGRAM_BOT_TOKEN = 'Telegram Bot Token';
+const CHAT_ID = 'Chat ID';
 
 // Fetching a random Wikipedia article
 async function fetchRandomWikipediaArticle() {
